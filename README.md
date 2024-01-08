@@ -1,2 +1,2 @@
 # SO-Codes
-Códigos de Sistemas Operacionais
+Códigos feitos na disciplina de Sistemas Operacionais em 2022
